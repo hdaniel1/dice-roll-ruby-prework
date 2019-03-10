@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  return [1, 2, 3, 4, 5, 6][rand(1..6)]
+  return [1, 2, 3, 4, 5, 6][rand(6)]
 end
